@@ -1,0 +1,49 @@
+.B{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(68, 68, 75);
+    height: 350px;
+    width:500px;
+}
+.A{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(44, 201, 23);
+    height: 100px;
+    width:500px;
+
+}
+P.blocktext {
+    height: 10em;
+    position: relative;
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+color: beige;}
+P.F{
+    height: 10em;
+    position: relative;
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+color: beige;
+
+}
+.C{
+    height: 10em;
+    position: relative;
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+color: beige;
+
+}
